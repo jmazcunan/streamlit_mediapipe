@@ -1,5 +1,6 @@
 import streamlit as st
 import os 
+import requests
 
 #Replicate example fromt this notebook: https://github.com/googlesamples/mediapipe/blob/main/examples/pose_landmarker/python/%5BMediaPipe_Python_Tasks%5D_Pose_Landmarker.ipynb
 #More docs: https://developers.google.com/mediapipe/solutions/vision/pose_landmarker
